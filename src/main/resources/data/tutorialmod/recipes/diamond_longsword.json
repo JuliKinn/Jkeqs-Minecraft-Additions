@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  G",
+    " G ",
+    "S  "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:diamond_sword"
+    },
+    "G": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:diamond_longsword"
+  }
+}

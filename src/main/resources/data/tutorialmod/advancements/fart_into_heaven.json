@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:white_concrete_powder"
+    },
+    "title": "Fart into Heaven",
+    "description": "Fart at build height to (try to) reach heaven",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "tutorialmod:odor_collector",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "position": {
+                "y": 320
+              }
+            }
+          }
+        ],
+        "item": {
+          "items": [
+            "tutorialmod:bottle_of_fart"
+          ]
+        }
+      }
+    }
+  }
+}

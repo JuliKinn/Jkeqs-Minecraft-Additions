@@ -1,0 +1,123 @@
+{
+  "tickler_attack": {
+    "sounds": [
+      {
+      "name":"tutorialmod:tickler_attack",
+      "stream": true}
+    ]
+  },
+  "history_myth_reviews": {
+    "sounds": [
+      {
+        "name":"tutorialmod:history_myth_reviews",
+        "stream": true}
+    ]
+  },
+  "misha_rambles": {
+    "sounds": [
+      {
+        "name":"tutorialmod:misha_rambles",
+        "stream": true}
+    ]
+  },
+  "the_great_war": {
+    "sounds": [
+      {
+        "name":"tutorialmod:the_great_war",
+        "stream": true}
+    ]
+  },
+  "war_of_worlds": {
+    "sounds": [
+      {
+        "name":"tutorialmod:war_of_worlds",
+        "stream": true}
+    ]
+  },
+  "sidewalk": {
+    "sounds": [
+      {
+        "name":"tutorialmod:sidewalk",
+        "stream": true}
+    ]
+  },
+  "misha_piano": {
+    "sounds": [
+      {
+        "name":"tutorialmod:misha_piano",
+        "stream": true}
+    ]
+  },
+  "rush_e": {
+    "sounds": [
+      {
+        "name":"tutorialmod:rush_e",
+        "stream": true}
+    ]
+  },
+  "lyric_essay": {
+    "sounds": [
+      {
+        "name":"tutorialmod:lyric_essay",
+        "stream": true}
+    ]
+  },
+  "stillness": {
+    "sounds": [
+      {
+        "name":"tutorialmod:stillness",
+        "stream": true}
+    ]
+  },
+  "wilderness": {
+    "sounds": [
+      {
+        "name":"tutorialmod:wilderness",
+        "stream": true}
+    ]
+  },
+  "poo_radar_found_ore": {
+    "subtitle": "sounds.tutorialmod.poo_radar_found_ore",
+    "sounds": [
+      {
+        "name":"tutorialmod:poo_radar_found_ore",
+        "stream": true}
+    ]
+  },
+  "sleeping_giant": {
+    "sounds": [
+      {
+        "name":"tutorialmod:sleeping_giant",
+        "stream": true}
+    ]
+  },
+  "neys": {
+    "sounds": [
+      {
+        "name":"tutorialmod:neys",
+        "stream": true}
+    ]
+  },
+  "gallimaufry": {
+    "sounds": [
+      {
+        "name":"tutorialmod:gallimaufry",
+        "stream": true}
+    ]
+  },
+  "soviet_anthem": {
+    "sounds": [
+      {
+        "name":"tutorialmod:soviet_anthem",
+        "stream": true}
+    ]
+  },
+  "bloodtide_subway": {
+    "sounds": [
+      {
+        "name":"tutorialmod:bloodtide_subway",
+        "stream": true
+      }
+    ]
+  }
+}

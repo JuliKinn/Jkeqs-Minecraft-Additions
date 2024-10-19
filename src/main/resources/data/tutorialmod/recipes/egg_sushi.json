@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FR",
+    "RD"
+  ],
+  "key": {
+    "R": {
+      "item": "tutorialmod:white_rice_crumbs"
+    },
+    "F": {
+      "item": "minecraft:egg"
+    },
+    "D": {
+      "item": "minecraft:dried_kelp"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:egg_sushi"
+  }
+}

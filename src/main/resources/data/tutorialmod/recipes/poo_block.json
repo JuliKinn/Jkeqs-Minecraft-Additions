@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:poo"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:poo_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "tutorialmod:toilet",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_beef"
+    }
+  ],
+  "output": {
+    "item": "tutorialmod:poo"
+  }
+}

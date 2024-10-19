@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "tutorialmod:toilet"
+    },
+    "title": "Introduction to Plumbing",
+    "description": "Assemble your first toilet",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "tutorialmod:big_dump_mod",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tutorialmod:toilet"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

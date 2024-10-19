@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "tutorialmod:thor_hammer"
+    },
+    "title": "By the Gods",
+    "description": "Summon Lightning with Thor's Hammer",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "tutorialmod:big_dump_mod",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tutorialmod:thor_hammer"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

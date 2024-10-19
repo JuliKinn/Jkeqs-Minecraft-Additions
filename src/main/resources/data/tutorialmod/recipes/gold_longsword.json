@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  G",
+    " G ",
+    "S  "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:golden_sword"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:gold_longsword"
+  }
+}
