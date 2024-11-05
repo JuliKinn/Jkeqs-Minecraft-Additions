@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures": {
-    "bottom": "tutorialmod:block/blue_trapdoor",
-    "side": "tutorialmod:block/blue_trapdoor",
-    "top": "tutorialmod:block/blue_trapdoor"
-  }
-}

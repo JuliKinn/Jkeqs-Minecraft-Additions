@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "tutorialmod:item/rush_e_music_disc"
-  }
-}

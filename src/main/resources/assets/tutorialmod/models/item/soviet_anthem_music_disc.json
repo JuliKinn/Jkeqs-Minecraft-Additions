@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "tutorialmod:item/soviet_anthem_music_disc"
-  }
-}

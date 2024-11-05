@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "tutorialmod:item/misha_piano_music_disc"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "tutorialmod:item/the_great_war_music_disc"
-  }
-}
