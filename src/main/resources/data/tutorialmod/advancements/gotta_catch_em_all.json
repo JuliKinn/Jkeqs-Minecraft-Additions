@@ -1,0 +1,102 @@
+{
+  "display": {
+    "icon": {
+      "item": "tutorialmod:neys_music_disc"
+    },
+    "title": "Gotta Catch Em All",
+    "description": "Get every single music disc from this mod",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "tutorialmod:big_dump_mod",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tutorialmod:bloodtide_subway_music_disc"
+            ]
+          },
+          {
+            "items": [
+              "tutorialmod:tickler_attack_music_disc"
+            ]
+          },
+          {
+            "items": [
+              "tutorialmod:history_myth_reviews_music_disc"
+            ]
+          },
+          {
+            "items": [
+              "tutorialmod:misha_rambles_music_disc"
+            ]
+          },
+          {
+            "items": [
+              "tutorialmod:war_of_worlds_music_disc"
+            ]
+          },
+          {
+            "items": [
+              "tutorialmod:the_great_war_music_disc"
+            ]
+          },
+          {
+            "items": [
+              "tutorialmod:misha_piano_music_disc"
+            ]
+          },
+          {
+            "items": [
+              "tutorialmod:sidewalk_music_disc"
+            ]
+          },
+          {
+            "items": [
+              "tutorialmod:neys_music_disc"
+            ]
+          },
+          {
+            "items": [
+              "tutorialmod:stillness_music_disc"
+            ]
+          },
+          {
+            "items": [
+              "tutorialmod:rush_e_music_disc"
+            ]
+          },
+          {
+            "items": [
+              "tutorialmod:lyric_essay_music_disc"
+            ]
+          },
+          {
+            "items": [
+              "tutorialmod:gallimaufry_music_disc"
+            ]
+          },
+          {
+            "items": [
+              "tutorialmod:soviet_anthem_music_disc"
+            ]
+          },
+          {
+            "items": [
+              "tutorialmod:wilderness_music_disc"
+            ]
+          },
+          {
+            "items": [
+              "tutorialmod:sleeping_giant_music_disc"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

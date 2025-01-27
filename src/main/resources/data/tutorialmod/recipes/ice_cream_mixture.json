@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "MBM"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:sugar"
+    },
+    "S": {
+      "item": "minecraft:snowball"
+    },
+    "B": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "result": {
+    "count": 6,
+    "item": "tutorialmod:ice_cream_mixture"
+  }
+}

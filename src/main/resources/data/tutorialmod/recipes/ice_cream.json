@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G",
+    "S"
+  ],
+  "key": {
+    "G": {
+      "item": "tutorialmod:ice_cream_mixture"
+    },
+    "S": {
+      "item": "tutorialmod:ice_cream_base"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:ice_cream"
+  }
+}

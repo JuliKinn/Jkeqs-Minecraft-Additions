@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S S",
+    "SLS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "tutorialmod_white_rice_crumbs"
+    },
+    "L": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "tutorialmod_france_anthem_music_disc"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G",
+    "S"
+  ],
+  "key": {
+    "G": {
+      "item": "tutorialmod:white_rice_crumbs"
+    },
+    "S": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:bowl_of_white_rice"
+  }
+}

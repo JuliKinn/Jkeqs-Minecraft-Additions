@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MSM",
+    "MSM",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "M": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:gold_battleaxe"
+  }
+}
